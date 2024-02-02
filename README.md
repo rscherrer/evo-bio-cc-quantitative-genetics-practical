@@ -20,3 +20,4 @@ Practical on Quantitative Genetics for the EvoBio Crash Course.
 
 * [https://evobiocrashcourse.github.io/](https://evobiocrashcourse.github.io/)
 * [https://github.com/rscherrer/evo-bio-cc](https://github.com/rscherrer/evo-bio-cc)
+* [HowTo --- Quantitative Genetics Practical Video](https://youtu.be/TlJg6wFdND4)
